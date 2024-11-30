@@ -1,6 +1,5 @@
 # SOLTEC.HRM
 
-![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
 **SOLTEC.HRM** (**Human Resources Management*). El concepto hace referencia a un tipo de software que permite la
@@ -10,7 +9,11 @@ través de una visión unificada de los datos y la automatización de los proces
 
 # Instalación
 
+
+
 # Construyendo
+
+
 
 #### Con Visual Studio 2022
 
